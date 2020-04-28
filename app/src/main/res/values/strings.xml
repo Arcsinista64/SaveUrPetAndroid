@@ -1,0 +1,97 @@
+<resources>
+    <string name="app_name">PetRescue</string>
+    <string name="Email">Email</string>
+    <string name="Password">Contraseña</string>
+    <string name="create_Account_message">¿Aún no tienes cuenta? Haz clic aquí para registrarse.</string>
+    <string name="newAccountTitle">Nueva cuenta</string>
+    <string name="button_Login">Ingresar</string>
+    <string name="username">Nombre del usuario</string>
+    <string name="petName">Nombre de la mascota</string>
+    <string name="password_confirm">Confirmar contraseña</string>
+    <string name="create_account">Crear cuenta</string>
+
+
+    <!-- DB Path -->
+    <string name="userscollection_db">users</string>
+    <string name="petcollection_db">pets</string>
+    <string name="petAdopted_db">requestAdoptPet</string>
+    <string name="petRescued_db">requestRescuePet</string>
+    <string name="NonAoR">NonAdoptedORRescued</string>
+    <string name="complaints_db">Complaints</string>
+
+    <!-- Values -->
+    <string name="Ok_value">Ok</string>
+    <string name="Password_error_Title">Las contraseñas no coinciden</string>
+    <string name="Password_error_message">Verifica que escribiste bien las contraseñas!</string>
+    <string name="Successful_account_Title">Cuenta creada con éxito!</string>
+    <string name="Successfull_account_Message">Tu cuenta ha sido creada, presiona el botón ok para ingresar a la app.</string>
+    <string name="Error_Acount_TItle">Error al crear cuenta</string>
+    <string name="Error_missedFields_message">Rellena los campos faltantes para continuar.</string>
+    <string name="Error_missedFields_title">Campos faltantes!</string>
+    <string name="Error_1">No escribiste el nombre del usuario</string>
+    <string name="Error_2">No escribiste un correo electrónico</string>
+    <string name="Error_3">No escribiste la contraseña</string>
+    <string name="Error_4">No confirmaste la contraseña</string>
+    <string name="Error_title">Error</string>
+    <string name="Error_empty">El correo o la contraseña no fueron introducidos!</string>
+    <string name="home_Title">Inicio</string>
+    <string name="adopcion_Title">Adopcion</string>
+    <string name="rescate_Title">Rescate</string>
+    <string name="denuncias_Title">Denuncias</string>
+    <string name="rip_Title">RIP</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="Error_account_used">La cuenta ya está asignada a otro usuario, por favor intenta con otra cuenta.</string>
+    <string name="take_photo">Tomar fotografía</string>
+    <string name="retake_photo">Tomar otra fotografía</string>
+    <string name="Register_pet">Registar</string>
+    <string name="Image_upload_success">Imagen subida exitosamente!</string>
+    <string name="Image_upload_error">La imagen no pudo ser cargada, intentalo más tarde.</string>
+    <string name="error_upload_pet">Error al subir el registro</string>
+    <string name="Successful_register_pet_title">Registro éxitoso!</string>
+    <string name="Successful_register_message">El registro se cargó correctamente a la base de datos!</string>
+    <string name="Adoption_title_button">Adoptar</string>
+    <string name="Rescue_title_button">Rescatar</string>
+    <string name="adoptPet_title_header">Proceso de adopción de mascota</string>
+    <string name="adopt_input_name_layout_title">Nombre completo</string>
+    <string name="adopt_input_address_layout_title">Calle, número, colonia</string>
+    <string name="adopt_input_c1_layout_title">Telefono de contacto</string>
+    <string name="adopt_input_c2_layout_title">Telefono de contacto 2</string>
+    <string name="adopt_input_visitDate_layout_title">Día de visita</string>
+    <string name="ref_child_order">deathDate</string>
+    <string name="adopt_pet_title_header">Solicitud de adopción de</string>
+    <string name="rescue_pet_title_header">Proceso de rescate de</string>
+    <string name="error_adopt_1">Olvidaste ingresar el nombre del solicitante</string>
+    <string name="error_adopt_2">Olvidaste ingresar la dirección del solicitante</string>
+    <string name="error_adopt_3">Olvidaste ingresar el telefono del solicitante</string>
+    <string name="adopt_date_title_button">Ingresar fecha de visita</string>
+    <string name="pattern_date">dd-MM-yy</string>
+    <string name="db_permission_user">adminPermission</string>
+    <string name="request_state">Tu solicitud está en proceso</string>
+    <string name="denuncias_title">Denuncias</string>
+    <string name="denuncia_subtitle">Tómese este momento para pensar y realizar una denuncia si considera necesario.
+		Las denuncias que son tomadas en cuenta son relacionadas a Pets sin hogar,
+		Pets que distorcionan la paz del ciudadano y/o maltrato/homicidio de Pet(s).</string>
+    <string name="denuncias_title_btn">Registrar denuncia</string>
+    <string name="denuncias_title_box">Escribe tu denuncia</string>
+    <string name="enviar_denuncia_title">Enviar denuncia</string>
+    <string name="rip_message">Descansen en paz todos los Pets que lamentablemente han sido abandonados, secuestrados,extraviados o nacidos sin hogar y no han encontrado uno.
+		Ningun Pet en esta vida merece algo así.
+		Desde el fondo de nuestros corazones… SIEMPRE los recordaremos.
+    </string>
+<string name="adopcion_text">Lamentamos tener en custodia a su Pet.
+Solicitamos esta información para comenzar el proceso de rescate lo más pronto posible.
+Tome en cuenta que si el proceso de adopción no es exitoso el Pet será trasladado a la pestaña RIP.
+</string>
+    <string name="logout">Salir</string>
+    <string name="logo">Logo</string>
+    <string name="logout_title_dialog">Cerrar sesión</string>
+    <string name="logout_message">Deseas cerrar sesión?</string>
+    <string name="acept_btn_title">Aceptar</string>
+    <string name="cancel_btn_title">Cancelar</string>
+    <string name="close_title">Cerrar</string>
+    <string name="complaint_title_header">DENUNCIA</string>
+
+
+</resources>
